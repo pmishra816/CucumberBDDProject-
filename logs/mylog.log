@@ -1,0 +1,115 @@
+[FATAL] 2023-08-22 14:25:58.220 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 14:25:58.246 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 14:25:59.780 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 14:26:02.003 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 14:26:08.592 [main] StepDef - Clicked on login page
+[INFO ] 2023-08-22 14:26:08.601 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 14:26:11.994 [main] StepDef - Clicked on logout link
+[INFO ] 2023-08-22 14:26:12.003 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 14:26:12.004 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 15:29:58.596 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 15:29:58.622 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 15:30:02.802 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 15:30:05.024 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 15:30:17.752 [main] StepDef - Clicked on login page
+[INFO ] 2023-08-22 15:30:17.761 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 15:30:25.449 [main] StepDef - Clicked on logout link
+[INFO ] 2023-08-22 15:30:25.456 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 15:30:25.457 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 15:30:26.570 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 15:30:26.572 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 15:30:32.498 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 15:30:34.705 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 15:30:50.323 [main] StepDef - Clicked on login page
+[WARN ] 2023-08-22 15:30:50.334 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2023-08-22 15:30:54.561 [main] StepDef - Customer menu clicked
+[INFO ] 2023-08-22 15:30:59.981 [main] StepDef - Cicked on add new button
+[INFO ] 2023-08-22 15:30:59.997 [main] StepDef - User can view Add new customer page-passed
+[INFO ] 2023-08-22 15:31:00.859 [main] StepDef - Customer information entered
+[INFO ] 2023-08-22 15:31:05.058 [main] StepDef - Clicked on save button
+[INFO ] 2023-08-22 15:31:05.190 [main] StepDef - User can view confirmation message-passed
+[INFO ] 2023-08-22 15:31:05.190 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 18:32:45.661 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 18:32:45.692 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 18:32:51.155 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 18:32:53.380 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 18:33:09.434 [main] StepDef - Clicked on login page
+[INFO ] 2023-08-22 18:33:09.444 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 18:33:14.418 [main] StepDef - Clicked on logout link
+[INFO ] 2023-08-22 18:33:14.428 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 18:33:14.429 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 18:33:15.517 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 18:33:15.518 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 18:33:20.282 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 18:33:22.524 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 18:33:33.446 [main] StepDef - Clicked on login page
+[INFO ] 2023-08-22 18:33:33.452 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 18:33:40.275 [main] StepDef - Clicked on logout link
+[INFO ] 2023-08-22 18:33:40.285 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 18:33:40.286 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 18:35:36.474 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 18:35:36.496 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 18:35:39.522 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 18:35:41.740 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 18:35:58.003 [main] StepDef - Clicked on login page
+[INFO ] 2023-08-22 18:35:58.016 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 18:36:05.701 [main] StepDef - Clicked on logout link
+[INFO ] 2023-08-22 18:36:05.714 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 18:36:05.715 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 18:36:06.705 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 18:36:06.710 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 18:36:14.583 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 18:36:16.799 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 18:36:41.192 [main] StepDef - Clicked on login page
+[WARN ] 2023-08-22 18:36:41.205 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2023-08-22 18:36:47.818 [main] StepDef - Customer menu clicked
+[INFO ] 2023-08-22 18:36:55.655 [main] StepDef - Cicked on add new button
+[INFO ] 2023-08-22 18:36:55.701 [main] StepDef - User can view Add new customer page-passed
+[INFO ] 2023-08-22 18:36:56.413 [main] StepDef - Customer information entered
+[INFO ] 2023-08-22 18:37:04.641 [main] StepDef - Clicked on save button
+[INFO ] 2023-08-22 18:37:04.764 [main] StepDef - User can view confirmation message-passed
+[INFO ] 2023-08-22 18:37:04.764 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 20:39:28.823 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 20:39:28.848 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 20:40:14.954 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 20:40:17.175 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 20:40:49.714 [main] StepDef - Clicked on login page
+[INFO ] 2023-08-22 20:40:49.726 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 20:41:00.800 [main] StepDef - Clicked on logout link
+[INFO ] 2023-08-22 20:41:00.814 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 20:41:00.815 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 20:41:01.836 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 20:41:01.839 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 20:41:32.727 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 20:41:34.953 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 20:42:08.910 [main] StepDef - Clicked on login page
+[WARN ] 2023-08-22 20:42:08.991 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2023-08-22 20:42:22.947 [main] StepDef - Customer menu clicked
+[INFO ] 2023-08-22 20:42:32.587 [main] StepDef - Cicked on add new button
+[INFO ] 2023-08-22 20:42:32.606 [main] StepDef - User can view Add new customer page-passed
+[INFO ] 2023-08-22 20:42:33.414 [main] StepDef - Customer information entered
+[INFO ] 2023-08-22 20:42:37.861 [main] StepDef - Clicked on save button
+[INFO ] 2023-08-22 20:42:37.989 [main] StepDef - User can view confirmation message-passed
+[INFO ] 2023-08-22 20:42:37.990 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 20:46:05.835 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 20:46:05.902 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 20:46:12.314 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 20:46:14.530 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 20:46:43.809 [main] StepDef - Clicked on login page
+[INFO ] 2023-08-22 20:46:43.817 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 20:46:50.739 [main] StepDef - Clicked on logout link
+[INFO ] 2023-08-22 20:46:50.750 [main] StepDef - Page title matched
+[INFO ] 2023-08-22 20:46:50.753 [main] StepDef - Browser is closed
+[FATAL] 2023-08-22 20:46:51.772 [main] StepDef - Setup Executed
+[INFO ] 2023-08-22 20:46:51.772 [main] StepDef - Chrome launched
+[INFO ] 2023-08-22 20:46:58.991 [main] StepDef - Url Entered
+[INFO ] 2023-08-22 20:47:01.252 [main] StepDef - Entered Email and password
+[INFO ] 2023-08-22 20:47:26.914 [main] StepDef - Clicked on login page
+[WARN ] 2023-08-22 20:47:26.928 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2023-08-22 20:47:29.619 [main] StepDef - Customer menu clicked
+[INFO ] 2023-08-22 20:47:31.822 [main] StepDef - Cicked on add new button
+[INFO ] 2023-08-22 20:47:31.837 [main] StepDef - User can view Add new customer page-passed
+[INFO ] 2023-08-22 20:47:32.576 [main] StepDef - Customer information entered
+[INFO ] 2023-08-22 20:47:34.452 [main] StepDef - Clicked on save button
+[INFO ] 2023-08-22 20:47:34.631 [main] StepDef - User can view confirmation message-passed
+[INFO ] 2023-08-22 20:47:34.632 [main] StepDef - Browser is closed
