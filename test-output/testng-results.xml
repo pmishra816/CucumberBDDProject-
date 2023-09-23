@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-22T20:52:20 IST" name="Suite" finished-at="2023-08-22T20:52:20 IST" duration-ms="12">
+  <suite started-at="2023-09-07T14:23:23 IST" name="Default suite" finished-at="2023-09-07T14:24:01 IST" duration-ms="38009">
     <groups>
     </groups>
-    <test started-at="2023-08-22T20:52:20 IST" name="Test" finished-at="2023-08-22T20:52:20 IST" duration-ms="12">
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    <test started-at="2023-09-07T14:23:23 IST" name="Default test" finished-at="2023-09-07T14:24:01 IST" duration-ms="38009">
+      <class name="TestNG.TestNG_Demo">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:TestNG.TestNG_Demo@480d3575]" started-at="2023-09-07T14:23:23 IST" name="setUpTest" finished-at="2023-09-07T14:23:27 IST" duration-ms="3656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="googleSearch()[pri:1, instance:TestNG.TestNG_Demo@480d3575]" started-at="2023-09-07T14:23:27 IST" name="googleSearch" finished-at="2023-09-07T14:23:38 IST" duration-ms="11014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method signature="clickOnLink()[pri:0, instance:TestNG.TestNG_Demo@480d3575]" started-at="2023-09-07T14:23:38 IST" name="clickOnLink" finished-at="2023-09-07T14:24:01 IST" depends-on-methods="TestNG.TestNG_Demo.googleSearch" duration-ms="23142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNG.TestNG_Demo@480d3575]" started-at="2023-09-07T14:24:01 IST" name="teardown" finished-at="2023-09-07T14:24:01 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNG.TestNG_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

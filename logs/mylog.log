@@ -113,3 +113,8 @@
 [INFO ] 2023-08-22 20:47:34.452 [main] StepDef - Clicked on save button
 [INFO ] 2023-08-22 20:47:34.631 [main] StepDef - User can view confirmation message-passed
 [INFO ] 2023-08-22 20:47:34.632 [main] StepDef - Browser is closed
+[FATAL] 2023-09-01 23:29:14.425 [main] StepDef - Setup Executed
+[FATAL] 2023-09-01 23:47:45.608 [main] StepDef - Setup Executed
+[FATAL] 2023-09-01 23:47:51.417 [main] StepDef - Setup Executed
+[FATAL] 2023-09-01 23:50:23.589 [main] StepDef - Setup Executed
+[FATAL] 2023-09-01 23:51:48.657 [main] StepDef - Setup Executed
